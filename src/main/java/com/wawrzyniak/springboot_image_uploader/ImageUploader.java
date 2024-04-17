@@ -22,9 +22,9 @@ public class ImageUploader {
     public ImageUploader(ImageRepo imageRepo) {                //Inicjalizacja w konstruktorze (Alt+Insert)
         this.imageRepo = imageRepo;
         cloudinary = new Cloudinary(ObjectUtils.asMap(
-                "cloud_name", "dg3f1a7lo",
-                "api_key", "284338645998892",
-                "api_secret", "CvsjPFSSlu0uH7fSWKuUGe40zy0"));
+                "cloud_name", "",
+                "api_key", "",
+                "api_secret", ""));
 
     }
 
