@@ -48,7 +48,7 @@
       "webpack": "4.42.0",
       "terser": "4.6.7",
       "webpack-merge": "4.2.2",
-      "webpack-dev-server": "3.10.3"
+      "webpack-dev-server": "5.0.4"
     },
     "hash": "ebb5ba1c76bbc1f0feaab3eafb362d87a6a953387a523b0f4c9e6dedf84b853f"
   },
@@ -98,6 +98,6 @@
     "webpack": "4.42.0",
     "terser": "4.6.7",
     "webpack-merge": "4.2.2",
-    "webpack-dev-server": "3.10.3"
+    "webpack-dev-server": "5.0.4"
   }
 }
